@@ -4,10 +4,10 @@
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-red.svg"></a>
     <a href="support os"><img src="https://img.shields.io/badge/os-linux%2C%20win%2C%20mac-pink.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/python-3.7+-aff.svg"></a>
-    <a href="https://github.com/scutbds/VRIND/graphs/contributors"><img src="https://img.shields.io/github/contributors/scutcyr/dstc11-simmc2.1-scut-bds-lab?color=9ea"></a>
-    <a href="https://github.com/scutbds/VRIND/commits"><img src="https://img.shields.io/github/commit-activity/m/scutcyr/dstc11-simmc2.1-scut-bds-lab?color=3af"></a>
-    <a href="https://github.com/scutbds/VRINb/issues"><img src="https://img.shields.io/github/issues/scutcyr/dstc11-simmc2.1-scut-bds-lab?color=9cc"></a>
-    <a href="https://github.com/scutbds/VRIND/stargazers"><img src="https://img.shields.io/github/stars/scutcyr/dstc11-simmc2.1-scut-bds-lab?color=ccf"></a>
+    <a href="https://github.com/scutbds/VRIND/graphs/contributors"><img src="https://img.shields.io/github/contributors/scutbds/VRIND?color=9ea"></a>
+    <a href="https://github.com/scutbds/VRIND/commits"><img src="https://img.shields.io/github/commit-activity/m/scutbds/VRIND?color=3af"></a>
+    <a href="https://github.com/scutbds/VRINb/issues"><img src="https://img.shields.io/github/issues/scutbds/VRIND?color=9cc"></a>
+    <a href="https://github.com/scutbds/VRIND/stargazers"><img src="https://img.shields.io/github/stars/scutbds/VRIND?color=ccf"></a>
 </p>
 
 **Team**: [scut-bds](https://github.com/scut-bds)    
